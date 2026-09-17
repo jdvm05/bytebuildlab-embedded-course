@@ -1,0 +1,8 @@
+item,reference_choice,required_for_lesson_3,notes
+Microcontroller board,Arduino Nano ESP32 with headers (ABX00083),Optional,Compatible boards can be used with setup changes
+USB cable,USB-C data cable,Only when reproducing,Charging-only cables cannot upload firmware
+Breadboard,Any standard solderless breadboard,No,Used in later lessons
+Jumper wires,Male-to-male jumper wires,No,Used in later lessons
+LEDs,General-purpose LEDs,No,Used in later lessons
+Resistors,Common resistor assortment,No,Used in later lessons
+Push buttons,Momentary push buttons,No,Used in later lessons

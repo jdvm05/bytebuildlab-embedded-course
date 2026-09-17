@@ -1,0 +1,25 @@
+course:
+  title: ByteBuildLab Embedded Systems Course
+  repository: https://github.com/jdvm05/bytebuildlab-embedded-course
+  status: in-production
+
+baseline:
+  board: Arduino Nano ESP32 with headers
+  product_code: ABX00083
+  ide: Arduino IDE 2
+  pin_numbering: Arduino pin numbering
+
+lessons:
+  - number: 1
+    slug: what-is-an-embedded-system
+    code_required: false
+    status: published-material-pending
+  - number: 2
+    slug: inside-a-microcontroller
+    code_required: false
+    status: published-material-pending
+  - number: 3
+    slug: build-flash-and-run
+    code_required: true
+    status: ready
+    path: lessons/03-build-flash-and-run

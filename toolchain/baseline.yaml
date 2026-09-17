@@ -1,0 +1,17 @@
+toolchain:
+  ide:
+    name: Arduino IDE
+    major_version: 2
+    download: https://www.arduino.cc/en/software
+  board:
+    name: Arduino Nano ESP32
+    product_code: ABX00083
+    package: Arduino ESP32 Boards
+    pin_numbering: Arduino pin numbering
+
+serial:
+  baud_rate: 115200
+
+notes:
+  - Exact tested IDE and board-package versions will be recorded after hardware verification.
+  - A USB-C data cable is required for uploading firmware.
