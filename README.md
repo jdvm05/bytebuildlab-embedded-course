@@ -10,6 +10,7 @@ Lessons 1 and 2 introduce embedded systems and the parts inside a microcontrolle
 
 - [Lesson 3 — Build, Flash, and Run](lessons/03-build-flash-and-run/)
 - [Open the Arduino sketch](lessons/03-build-flash-and-run/firmware/lesson_03_first_program/lesson_03_first_program.ino)
+- [Lesson 3 setup and recovery checklist](toolchain/setup-and-recovery-checklist.md)
 
 You do **not** need hardware to follow the explanation. The files are here so you can reproduce the demonstration whenever you have a suitable board.
 
