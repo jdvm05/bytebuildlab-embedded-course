@@ -43,3 +43,4 @@ HEARTBEAT
 After the first successful run, change `HEARTBEAT` to a short message of your own, upload again, and confirm that the new text appears in Serial Monitor.
 
 For upload or serial problems, use the [troubleshooting checklist](../../troubleshooting/upload-and-serial.md).
+The [complete setup and recovery checklist](../../toolchain/setup-and-recovery-checklist.md) combines the preparation and troubleshooting steps in one place.
