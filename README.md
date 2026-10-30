@@ -2,7 +2,9 @@
 
 Code, setup notes, and reference material for the ByteBuildLab embedded systems course.
 
-The course starts with the **Arduino Nano ESP32**, but the concepts are not tied to one board. If you have compatible hardware, use the notes in [`compatibility/`](compatibility/) and ask for help in the lesson comments with your exact board model and operating system.
+The course starts with the **Arduino® Nano ESP32**, but the concepts are not tied to one board. If you have compatible hardware, use the notes in [`compatibility/`](compatibility/) and ask for help in the lesson comments with your exact board model and operating system.
+
+This is an independent ByteBuildLab course. It is not affiliated with, sponsored by, endorsed by, or certified by Arduino, Espressif, Microsoft, or USB-IF. Product names identify the hardware and software used in the lessons.
 
 ## Start with Lesson 3
 
@@ -26,7 +28,7 @@ Do not edit files while they are still inside the compressed ZIP archive.
 ## Reference setup
 
 - Arduino Nano ESP32 with headers (ABX00083)
-- USB-C **data** cable
+- USB-C® **data** cable
 - Arduino IDE 2
 - Arduino pin numbering, which is the Nano ESP32 default
 
@@ -44,4 +46,10 @@ troubleshooting/Common setup and upload fixes
 
 ## License
 
-The code and written material in this repository are available under the [MIT License](LICENSE).
+ByteBuildLab's original code and written material in this repository are available under the [MIT License](LICENSE). Third-party software, documentation, and any separately identified third-party material retain their own licenses and notices. Linking to or using a tool does not relicense it under MIT. No trademark rights are granted by this repository's license.
+
+## Trademark notices and content policy
+
+Arduino® is a trademark of Arduino SA. Windows is a trademark of the Microsoft group of companies. USB-C® is a registered trademark of USB Implementers Forum. Espressif and ESP32 product names identify products of Espressif Systems. Other product names belong to their respective owners.
+
+See [Content, copyright, and brand-use policy](CONTENT_POLICY.md) for contribution rules, source attribution, and the scope and limits of the repository review.
